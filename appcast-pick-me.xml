@@ -4,7 +4,7 @@
         <title>Pick me by pradit</title>
         <item>
             <title>เวอร์ชัน 1.0.3</title>
-            <description>แอปพลิเคชันมีการอัปเดตใหม่ ! เทสสสๆๆๆ</description>
+            <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
             <enclosure url="https://play.google.com/store/apps/details?id=logisboy.pick.me" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
     </channel>
