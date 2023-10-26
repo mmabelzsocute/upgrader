@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>TMS PRADIT</title>
+        <item>
+            <title>เวอร์ชัน 4.0.4</title>
+            <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
+            <enclosure url="https://apps.apple.com/th/app/tms-pradit/id6445909835?platform=ipad" sparkle:version="4.0.4" sparkle:os="iOS" />
+        </item>
+    </channel>
+</rss>
