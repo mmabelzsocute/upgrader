@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Logis Boy POD</title>
+        <title>CZone Driver</title>
         <item>
-            <title>เวอร์ชัน 4.0.3</title>
+            <title>เวอร์ชัน 4.0.4</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://apps.apple.com/th/app/logisboypod/id6445881014" sparkle:version="4.0.3" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/th/app/czone-driver/id6445908739" sparkle:version="4.0.4" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
