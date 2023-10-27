@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Bi Logistics/<title>
+        <item>
+            <title>เวอร์ชัน 1.0.10</title>
+            <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
+            <enclosure url="https://apps.apple.com/th/app/bi-logistics/id6466231143" sparkle:version="1.0.10" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
