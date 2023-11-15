@@ -3,9 +3,9 @@
     <channel>
         <title>Pick me by pradit</title>
         <item>
-            <title>เวอร์ชัน 1.0.10</title>
+            <title>เวอร์ชัน 1.0.11</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://apps.apple.com/es/app/pick-me-by-pradit/id6463790108" sparkle:version="1.0.10" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/es/app/pick-me-by-pradit/id6463790108" sparkle:version="1.0.11" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
