@@ -3,9 +3,9 @@
     <channel>
         <title>TMS.SMART DRIVER</title>
         <item>
-            <title>เวอร์ชัน 4.0.3</title>
+            <title>เวอร์ชัน 4.0.6</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://apps.apple.com/ae/app/tms-smart-driver/id6445905677" sparkle:version="4.0.3" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/ae/app/tms-smart-driver/id6445905677" sparkle:version="4.0.6" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
