@@ -3,9 +3,9 @@
     <channel>
         <title>PL TMS</title>
         <item>
-            <title>เวอร์ชัน 2.0.2</title>
+            <title>เวอร์ชัน 2.0.3</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=logisboy.tms.phat&hl=th" sparkle:version="2.0.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=logisboy.tms.phat&hl=th" sparkle:version="2.0.3" sparkle:os="android" />
         </item>
     </channel>
 </rss>
