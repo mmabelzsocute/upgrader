@@ -3,9 +3,9 @@
     <channel>
         <title>PL TMS</title>
         <item>
-            <title>เวอร์ชัน 2.0.5</title>
+            <title>เวอร์ชัน 2.0.8</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://apps.apple.com/th/app/pl-tms/id6465844282" sparkle:version="2.0.5" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/th/app/pl-tms/id6465844282" sparkle:version="2.0.8" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
