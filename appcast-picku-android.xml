@@ -3,9 +3,9 @@
     <channel>
         <title>PICK U</title>
         <item>
-            <title>เวอร์ชัน 4.0.5</title>
+            <title>เวอร์ชัน 4.0.6</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=tms.pradit" sparkle:version="4.0.5" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=tms.pradit" sparkle:version="4.0.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>

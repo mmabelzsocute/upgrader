@@ -3,9 +3,9 @@
     <channel>
         <title>TMS PRADIT</title>
         <item>
-            <title>เวอร์ชัน 4.0.8</title>
+            <title>เวอร์ชัน 4.0.9</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://apps.apple.com/th/app/tms-pradit/id6445909835?platform=ipad" sparkle:version="4.0.8" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/th/app/tms-pradit/id6445909835?platform=ipad" sparkle:version="4.0.9" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
