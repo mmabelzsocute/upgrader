@@ -3,9 +3,9 @@
     <channel>
         <title>CZone Driver</title>
         <item>
-            <title>เวอร์ชัน 5.0.2</title>
+            <title>เวอร์ชัน 5.0.4</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=tms.czone_driver&hl=en-TH" sparkle:version="5.0.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=tms.czone_driver&hl=en-TH" sparkle:version="5.0.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>

@@ -3,9 +3,9 @@
     <channel>
         <title>CZone Driver</title>
         <item>
-            <title>เวอร์ชัน 4.0.4</title>
+            <title>เวอร์ชัน 4.0.6</title>
             <description>แอปพลิเคชันมีการอัปเดตใหม่ !</description>
-            <enclosure url="https://apps.apple.com/th/app/czone-driver/id6445908739" sparkle:version="4.0.4" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/th/app/czone-driver/id6445908739" sparkle:version="4.0.6" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
